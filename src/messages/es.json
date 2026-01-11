@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "Festivales Marruecos - Busqueda de eventos artisticos y culturales",
+    "description": "Descubre exposiciones de arte, festivales culturales, eventos musicales y celebraciones del patrimonio en todo Marruecos."
+  },
+  "header": {
+    "logo": "Festivals",
+    "nav": {
+      "search": "Buscar",
+      "events": "Eventos",
+      "regions": "Regiones",
+      "about": "Acerca de"
+    },
+    "language": "Idioma"
+  },
+  "search": {
+    "placeholder": "Buscar festivales, eventos, artistas...",
+    "region": "Seleccionar region",
+    "allRegions": "Todas las regiones",
+    "date": "Seleccionar fecha",
+    "anyDate": "Cualquier fecha",
+    "today": "Hoy",
+    "thisWeek": "Esta semana",
+    "thisMonth": "Este mes",
+    "customRange": "Rango personalizado",
+    "visual": "Busqueda visual",
+    "advanced": "Busqueda avanzada",
+    "uploadImage": "Sube una imagen para encontrar eventos similares",
+    "dropImage": "Arrastra la imagen aqui o haz clic para subir",
+    "categories": "Categorias",
+    "filters": "Filtros",
+    "priceRange": "Rango de precios",
+    "free": "Solo eventos gratuitos",
+    "accessibility": "Accesibilidad",
+    "wheelchair": "Acceso para sillas de ruedas",
+    "signLanguage": "Lengua de signos",
+    "audioDescription": "Audiodescripcion",
+    "apply": "Aplicar filtros",
+    "clear": "Borrar todo",
+    "results": "Resultados",
+    "noResults": "No se encontraron eventos",
+    "tryDifferent": "Prueba con otros criterios de busqueda"
+  },
+  "calendar": {
+    "title": "Seleccionar fecha",
+    "months": {
+      "january": "Enero",
+      "february": "Febrero",
+      "march": "Marzo",
+      "april": "Abril",
+      "may": "Mayo",
+      "june": "Junio",
+      "july": "Julio",
+      "august": "Agosto",
+      "september": "Septiembre",
+      "october": "Octubre",
+      "november": "Noviembre",
+      "december": "Diciembre"
+    },
+    "days": {
+      "sun": "Dom",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mie",
+      "thu": "Jue",
+      "fri": "Vie",
+      "sat": "Sab"
+    },
+    "quickSelect": "Seleccion rapida",
+    "startDate": "Fecha de inicio",
+    "endDate": "Fecha de fin",
+    "confirm": "Confirmar"
+  },
+  "event": {
+    "details": "Detalles del evento",
+    "date": "Fecha",
+    "location": "Ubicacion",
+    "venue": "Lugar",
+    "price": "Precio",
+    "free": "Gratis",
+    "organizer": "Organizador",
+    "website": "Sitio web",
+    "accessibility": "Accesibilidad",
+    "share": "Compartir",
+    "directions": "Como llegar",
+    "similar": "Eventos similares"
+  },
+  "categories": {
+    "music": "Musica",
+    "art": "Arte",
+    "film": "Cine",
+    "dance": "Danza",
+    "theatre": "Teatro",
+    "heritage": "Patrimonio",
+    "food": "Gastronomia",
+    "literature": "Literatura",
+    "craft": "Artesania",
+    "spiritual": "Espiritual"
+  },
+  "footer": {
+    "navigation": {
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "faq": "FAQ",
+      "press": "Prensa"
+    },
+    "social": {
+      "follow": "Siguenos"
+    },
+    "legal": {
+      "privacy": "Politica de privacidad",
+      "terms": "Terminos de servicio",
+      "cookies": "Politica de cookies",
+      "notice": "Aviso legal"
+    },
+    "powered": "Desarrollado por",
+    "slowMorocco": "Slow Morocco",
+    "copyright": "Todos los derechos reservados"
+  }
+}

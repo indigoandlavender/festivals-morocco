@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "Festivals Maroc - Recherche d'evenements artistiques et culturels",
+    "description": "Decouvrez les expositions d'art, festivals culturels, evenements musicaux et celebrations du patrimoine a travers le Maroc."
+  },
+  "header": {
+    "logo": "Festivals",
+    "nav": {
+      "search": "Recherche",
+      "events": "Evenements",
+      "regions": "Regions",
+      "about": "A propos"
+    },
+    "language": "Langue"
+  },
+  "search": {
+    "placeholder": "Rechercher festivals, evenements, artistes...",
+    "region": "Selectionner une region",
+    "allRegions": "Toutes les regions",
+    "date": "Selectionner une date",
+    "anyDate": "Toutes les dates",
+    "today": "Aujourd'hui",
+    "thisWeek": "Cette semaine",
+    "thisMonth": "Ce mois",
+    "customRange": "Periode personnalisee",
+    "visual": "Recherche visuelle",
+    "advanced": "Recherche avancee",
+    "uploadImage": "Telecharger une image pour trouver des evenements similaires",
+    "dropImage": "Deposer l'image ici ou cliquer pour telecharger",
+    "categories": "Categories",
+    "filters": "Filtres",
+    "priceRange": "Fourchette de prix",
+    "free": "Evenements gratuits uniquement",
+    "accessibility": "Accessibilite",
+    "wheelchair": "Acces fauteuil roulant",
+    "signLanguage": "Langue des signes",
+    "audioDescription": "Audiodescription",
+    "apply": "Appliquer les filtres",
+    "clear": "Tout effacer",
+    "results": "Resultats",
+    "noResults": "Aucun evenement trouve",
+    "tryDifferent": "Essayez d'autres criteres de recherche"
+  },
+  "calendar": {
+    "title": "Selectionner une date",
+    "months": {
+      "january": "Janvier",
+      "february": "Fevrier",
+      "march": "Mars",
+      "april": "Avril",
+      "may": "Mai",
+      "june": "Juin",
+      "july": "Juillet",
+      "august": "Aout",
+      "september": "Septembre",
+      "october": "Octobre",
+      "november": "Novembre",
+      "december": "Decembre"
+    },
+    "days": {
+      "sun": "Dim",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mer",
+      "thu": "Jeu",
+      "fri": "Ven",
+      "sat": "Sam"
+    },
+    "quickSelect": "Selection rapide",
+    "startDate": "Date de debut",
+    "endDate": "Date de fin",
+    "confirm": "Confirmer"
+  },
+  "event": {
+    "details": "Details de l'evenement",
+    "date": "Date",
+    "location": "Lieu",
+    "venue": "Site",
+    "price": "Prix",
+    "free": "Gratuit",
+    "organizer": "Organisateur",
+    "website": "Site web",
+    "accessibility": "Accessibilite",
+    "share": "Partager",
+    "directions": "Itineraire",
+    "similar": "Evenements similaires"
+  },
+  "categories": {
+    "music": "Musique",
+    "art": "Art",
+    "film": "Cinema",
+    "dance": "Danse",
+    "theatre": "Theatre",
+    "heritage": "Patrimoine",
+    "food": "Gastronomie",
+    "literature": "Litterature",
+    "craft": "Artisanat",
+    "spiritual": "Spirituel"
+  },
+  "footer": {
+    "navigation": {
+      "about": "A propos",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "press": "Presse"
+    },
+    "social": {
+      "follow": "Suivez-nous"
+    },
+    "legal": {
+      "privacy": "Politique de confidentialite",
+      "terms": "Conditions d'utilisation",
+      "cookies": "Politique des cookies",
+      "notice": "Mentions legales"
+    },
+    "powered": "Propulse par",
+    "slowMorocco": "Slow Morocco",
+    "copyright": "Tous droits reserves"
+  }
+}

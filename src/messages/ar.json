@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "مهرجانات المغرب - البحث عن الفعاليات الفنية والثقافية",
+    "description": "اكتشف المعارض الفنية والمهرجانات الثقافية والفعاليات الموسيقية واحتفالات التراث في جميع انحاء المغرب."
+  },
+  "header": {
+    "logo": "Festivals",
+    "nav": {
+      "search": "بحث",
+      "events": "الفعاليات",
+      "regions": "المناطق",
+      "about": "حول"
+    },
+    "language": "اللغة"
+  },
+  "search": {
+    "placeholder": "ابحث عن المهرجانات والفعاليات والفنانين...",
+    "region": "اختر المنطقة",
+    "allRegions": "جميع المناطق",
+    "date": "اختر التاريخ",
+    "anyDate": "اي تاريخ",
+    "today": "اليوم",
+    "thisWeek": "هذا الاسبوع",
+    "thisMonth": "هذا الشهر",
+    "customRange": "نطاق مخصص",
+    "visual": "البحث المرئي",
+    "advanced": "البحث المتقدم",
+    "uploadImage": "ارفع صورة للعثور على فعاليات مماثلة",
+    "dropImage": "اسحب الصورة هنا او انقر للرفع",
+    "categories": "الفئات",
+    "filters": "عوامل التصفية",
+    "priceRange": "نطاق السعر",
+    "free": "الفعاليات المجانية فقط",
+    "accessibility": "امكانية الوصول",
+    "wheelchair": "وصول الكراسي المتحركة",
+    "signLanguage": "لغة الاشارة",
+    "audioDescription": "الوصف الصوتي",
+    "apply": "تطبيق عوامل التصفية",
+    "clear": "مسح الكل",
+    "results": "النتائج",
+    "noResults": "لم يتم العثور على فعاليات",
+    "tryDifferent": "جرب معايير بحث مختلفة"
+  },
+  "calendar": {
+    "title": "اختر التاريخ",
+    "months": {
+      "january": "يناير",
+      "february": "فبراير",
+      "march": "مارس",
+      "april": "ابريل",
+      "may": "مايو",
+      "june": "يونيو",
+      "july": "يوليو",
+      "august": "اغسطس",
+      "september": "سبتمبر",
+      "october": "اكتوبر",
+      "november": "نوفمبر",
+      "december": "ديسمبر"
+    },
+    "days": {
+      "sun": "احد",
+      "mon": "اثن",
+      "tue": "ثلا",
+      "wed": "ارب",
+      "thu": "خمي",
+      "fri": "جمع",
+      "sat": "سبت"
+    },
+    "quickSelect": "اختيار سريع",
+    "startDate": "تاريخ البداية",
+    "endDate": "تاريخ الانتهاء",
+    "confirm": "تاكيد"
+  },
+  "event": {
+    "details": "تفاصيل الفعالية",
+    "date": "التاريخ",
+    "location": "الموقع",
+    "venue": "المكان",
+    "price": "السعر",
+    "free": "مجاني",
+    "organizer": "المنظم",
+    "website": "الموقع الالكتروني",
+    "accessibility": "امكانية الوصول",
+    "share": "مشاركة",
+    "directions": "احصل على الاتجاهات",
+    "similar": "فعاليات مماثلة"
+  },
+  "categories": {
+    "music": "موسيقى",
+    "art": "فن",
+    "film": "سينما",
+    "dance": "رقص",
+    "theatre": "مسرح",
+    "heritage": "تراث",
+    "food": "طعام",
+    "literature": "ادب",
+    "craft": "حرف",
+    "spiritual": "روحاني"
+  },
+  "footer": {
+    "navigation": {
+      "about": "حول",
+      "contact": "اتصل بنا",
+      "faq": "الاسئلة الشائعة",
+      "press": "الصحافة"
+    },
+    "social": {
+      "follow": "تابعنا"
+    },
+    "legal": {
+      "privacy": "سياسة الخصوصية",
+      "terms": "شروط الخدمة",
+      "cookies": "سياسة ملفات تعريف الارتباط",
+      "notice": "اشعار قانوني"
+    },
+    "powered": "مدعوم من",
+    "slowMorocco": "Slow Morocco",
+    "copyright": "جميع الحقوق محفوظة"
+  }
+}
